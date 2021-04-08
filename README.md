@@ -3,7 +3,6 @@
 
 
 Here are some ideas to get you started:             
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Rthong&theme=dark&show_icons=true">](https://metrics.lecoq.io/Rthong?template=classic)
 
 <!-- - 🔭 I’m currently working on ... -->
 
@@ -21,6 +20,8 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
   
+  [<img  src="https://github-readme-stats.vercel.app/api?username=Rthong&theme=dark&show_icons=true">](https://metrics.lecoq.io/Rthong?template=classic)
+
 <!-- - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
