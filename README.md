@@ -2,8 +2,8 @@
 
 
 
-Here are some ideas to get you started:
-
+Here are some ideas to get you started:             
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Rthong&theme=dark&show_icons=true">](https://metrics.lecoq.io/Rthong?template=classic)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://github-readme-stats.vercel.app/api?username=Rthong&theme=dark)
+
