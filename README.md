@@ -39,8 +39,11 @@ Connect with me here -
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 42 mins   ████████████████████████▒   96.99 % 
-JSX          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+TypeScript   4 hrs 4 mins    ███████████████████████░░   92.40 % 
+JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JSX          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
 
