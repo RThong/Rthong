@@ -33,4 +33,19 @@ Connect with me here -
 - ⚡ Fun fact: ...
 -->
 
+---
+
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:waka-->
+```text
+VimL       2 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   31.01 % 
+Markdown   2 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Bash       1 hr 40 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.78 % 
+Other      51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Crontab    13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+```
+<!--END_SECTION:waka-->
+
+---
 
