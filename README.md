@@ -38,7 +38,10 @@ Connect with me here -
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
-
+```text
+TypeScript   3 hrs 42 mins   ████████████████████████▒   96.99 % 
+JSX          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+```
 <!--END_SECTION:waka-->
 
 ---
