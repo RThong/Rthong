@@ -33,20 +33,4 @@ Connect with me here -
 - ⚡ Fun fact: ...
 -->
 
----
-
-#### :bar_chart: Weekly development breakdown
-<!--
-<!--START_SECTION:waka-->
-```text
-TypeScript   4 hrs 45 mins   ████████████████████▒░░░░   80.84 % 
-HTML         38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-JSX          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-```
-<!--END_SECTION:waka-->
--->
-
----
 
