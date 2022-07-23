@@ -2,9 +2,9 @@
 
 
 
-Connect with me here -
-
+<!-- Connect with me here -
 [![Gmail Badge](https://img.shields.io/badge/-403216075@qq.com-c14438?style=plastic&logo=foxmail&logoColor=white&link=mailto:403216075@qq.com)](mailto:403216075@qq.com)
+-->
 
 <!-- - 🔭 I’m currently working on ... -->
 
