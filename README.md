@@ -15,7 +15,7 @@
   ![React Hook](https://img.shields.io/badge/-Ant%20Design-0170fe?style=plastic&logo=Ant%20Design)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   
-  [<img  src="https://github-readme-stats.vercel.app/api?username=Rthong&theme=dark&show_icons=true">](https://metrics.lecoq.io/Rthong?template=classic)
+  <!-- [<img  src="https://github-readme-stats.vercel.app/api?username=Rthong&theme=dark&show_icons=true">](https://metrics.lecoq.io/Rthong?template=classic)  -->
 
 <!-- - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
