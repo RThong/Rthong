@@ -13,7 +13,8 @@
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![React Hook](https://img.shields.io/badge/-React%20Hook-3b2e5a?style=plastic&logo=react)
   ![React Hook](https://img.shields.io/badge/-Ant%20Design-0170fe?style=plastic&logo=Ant%20Design)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  [![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
+
   
   <!-- [<img  src="https://github-readme-stats.vercel.app/api?username=Rthong&theme=dark&show_icons=true">](https://metrics.lecoq.io/Rthong?template=classic)  -->
 
